@@ -1,7 +1,7 @@
 # Olá! Eu sou [Alefy Almeida] 👋
 
 [![LinkedIn](www.linkedin.com/in/alefy-almeida-18657b21a)
-[![GitHub Followers](https://img.shields.io/github/followers/seu-usuario?label=Follow&style=social)](https://github.com/alefytaas)
+[![GitHub Followers](https://img.shields.io/github/followers/alefytaas?label=Follow&style=social)](https://github.com/alefytaas)
 
 ## Sobre Mim
 
@@ -21,9 +21,6 @@ Eu sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho como um fo
 - **Cursando Medicina Veterinária**, Universidade Federal do Cariri (UFCA)
 - **Cursos e Certificações**: Residência em TIC - UFCA/Brisa/Softex
 
-## 📈 Estatísticas do GitHub
-
-![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?alefytaas&show_icons=true&theme=radical)
 
 ## Experiência Profissional
 
