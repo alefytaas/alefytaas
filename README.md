@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/alefy-almeida-18657b21a/)
 [![GitHub Followers](https://img.shields.io/github/followers/alefytaas?label=Follow&style=social)](https://github.com/alefytaas)
+[![Wakatime Stats](README_stats.md)](https://wakatime.com/)
 
 ## Sobre Mim
 
