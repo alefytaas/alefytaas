@@ -23,7 +23,7 @@ Eu sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho como um fo
 
 ## 📈 Estatísticas do GitHub
 
-![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?alefytaas&show_icons=true&theme=radical)
 
 ## Experiência Profissional
 
@@ -33,6 +33,6 @@ Eu sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho como um fo
 
 ## 📫 Entre em Contato
 
-- **Email**: [seu-email@example.com](mailto:taas.sousa@gmail.com)
-- **LinkedIn**: [seu-perfil-linkedin](www.linkedin.com/in/alefy-almeida-18657b21a)
+- **Email**: [taas.sousa@gmail.com](mailto:taas.sousa@gmail.com)
+- **LinkedIn**: [@AlefyAlmeida](www.linkedin.com/in/alefy-almeida-18657b21a)
 
