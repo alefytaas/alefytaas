@@ -1,39 +1,25 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou [Alefy Almeida] 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/seu-perfil/)
-[![GitHub Followers](https://img.shields.io/github/followers/seu-usuario?label=Follow&style=social)](https://github.com/seu-usuario)
+[![LinkedIn](www.linkedin.com/in/alefy-almeida-18657b21a)
+[![GitHub Followers](https://img.shields.io/github/followers/seu-usuario?label=Follow&style=social)](https://github.com/alefytaas)
 
 ## Sobre Mim
 
-Eu sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho [X] anos de experiência em desenvolvimento de software, com um forte foco em Inteligência Artificial e Administração de Sistemas. Sempre busco aprender novas tecnologias e melhorar minhas habilidades para criar soluções eficientes e inovadoras.
+Eu sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho como um forte foco em Inteligência Artificial, Administração de Sistemas e Desenvolvimento Back-End. Sempre busco aprender novas tecnologias e melhorar minhas habilidades para criar soluções eficientes e inovadoras.
 
 ## 🛠 Habilidades Técnicas
 
-- **Linguagens de Programação**: JavaScript, Python, Java, C#, etc.
-- **Frameworks e Bibliotecas**: React, Node.js, Django, Flask, Spring, etc.
-- **Banco de Dados**: MySQL, PostgreSQL, MongoDB, etc.
-- **Ferramentas e Plataformas**: Docker, Kubernetes, AWS, Azure, Git, etc.
-- **Metodologias Ágeis**: Scrum, Kanban
-
-## 🌟 Projetos Destacados
-
-### [Nome do Projeto 1](link-do-projeto)
-**Descrição**: Um breve resumo do projeto, destacando os principais desafios e soluções implementadas.  
-**Tecnologias Utilizadas**: Listar as principais tecnologias e ferramentas utilizadas.
-
-### [Nome do Projeto 2](link-do-projeto)
-**Descrição**: Um breve resumo do projeto, destacando os principais desafios e soluções implementadas.  
-**Tecnologias Utilizadas**: Listar as principais tecnologias e ferramentas utilizadas.
-
-### [Nome do Projeto 3](link-do-projeto)
-**Descrição**: Um breve resumo do projeto, destacando os principais desafios e soluções implementadas.  
-**Tecnologias Utilizadas**: Listar as principais tecnologias e ferramentas utilizadas.
+- **Linguagens de Programação**: JavaScript, Python.
+- **Frameworks e Bibliotecas**: React, Node.js, Flask.
+- **Banco de Dados**: MySQL, PostgreSQL.
+- **Ferramentas e Plataformas**:Git.
+- **Metodologias Ágeis**: Scrum.
 
 ## 🎓 Formação Acadêmica
 
 - **Graduação em Ciência da Computação**, Universidade do Estado do Rio Grande do Norte (UERN)
-- **Cursando Medicina Veterinária**, [Nome da Instituição]
-- **Cursos e Certificações**: Lista de cursos e certificações relevantes que você concluiu
+- **Cursando Medicina Veterinária**, Universidade Federal do Cariri (UFCA)
+- **Cursos e Certificações**: Residência em TIC - UFCA/Brisa/Softex
 
 ## 📈 Estatísticas do GitHub
 
@@ -47,6 +33,6 @@ Eu sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho [X] anos d
 
 ## 📫 Entre em Contato
 
-- **Email**: [seu-email@example.com](mailto:seu-email@example.com)
-- **LinkedIn**: [seu-perfil-linkedin](https://www.linkedin.com/in/seu-perfil/)
-- **Portfólio**: [seu-site-ou-portfolio](https://www.seusite.com)
+- **Email**: [seu-email@example.com](mailto:taas.sousa@gmail.com)
+- **LinkedIn**: [seu-perfil-linkedin](www.linkedin.com/in/alefy-almeida-18657b21a)
+
