@@ -1,6 +1,6 @@
 # Olá! Eu sou [Alefy Almeida] 👋
 
-[![LinkedIn](www.linkedin.com/in/alefy-almeida-18657b21a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/alefy-almeida-18657b21a/)
 [![GitHub Followers](https://img.shields.io/github/followers/alefytaas?label=Follow&style=social)](https://github.com/alefytaas)
 
 ## Sobre Mim
@@ -31,5 +31,5 @@ Eu sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho como um fo
 ## 📫 Entre em Contato
 
 - **Email**: [taas.sousa@gmail.com](mailto:taas.sousa@gmail.com)
-- **LinkedIn**: [@AlefyAlmeida](www.linkedin.com/in/alefy-almeida-18657b21a)
+- **LinkedIn**: [Alefy Almeida](https://www.linkedin.com/in/alefy-almeida-18657b21a/)
 
