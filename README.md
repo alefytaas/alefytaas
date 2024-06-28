@@ -11,7 +11,7 @@ Eu sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho como um fo
 ## 🛠 Habilidades Técnicas
 
 - **Linguagens de Programação**: JavaScript, Python, Ruby.
-- **Frameworks e Bibliotecas**: React, Node.js, Flask.
+- **Frameworks e Bibliotecas**: Rails.
 - **Banco de Dados**: MySQL, PostgreSQL.
 - **Ferramentas e Plataformas**:Git, GitHub.
 - **Metodologias Ágeis**: Scrum.
